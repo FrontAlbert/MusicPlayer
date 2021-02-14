@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/http//FrontAlbert.github.io/MusicPlayer/static/css/main.69793001.chunk.css",
+    "main.js": "/http//FrontAlbert.github.io/MusicPlayer/static/js/main.47f371fb.chunk.js",
+    "main.js.map": "/http//FrontAlbert.github.io/MusicPlayer/static/js/main.47f371fb.chunk.js.map",
+    "runtime-main.js": "/http//FrontAlbert.github.io/MusicPlayer/static/js/runtime-main.02995889.js",
+    "runtime-main.js.map": "/http//FrontAlbert.github.io/MusicPlayer/static/js/runtime-main.02995889.js.map",
+    "static/js/2.2df6a7e1.chunk.js": "/http//FrontAlbert.github.io/MusicPlayer/static/js/2.2df6a7e1.chunk.js",
+    "static/js/2.2df6a7e1.chunk.js.map": "/http//FrontAlbert.github.io/MusicPlayer/static/js/2.2df6a7e1.chunk.js.map",
+    "index.html": "/http//FrontAlbert.github.io/MusicPlayer/index.html",
+    "static/css/main.69793001.chunk.css.map": "/http//FrontAlbert.github.io/MusicPlayer/static/css/main.69793001.chunk.css.map",
+    "static/js/2.2df6a7e1.chunk.js.LICENSE.txt": "/http//FrontAlbert.github.io/MusicPlayer/static/js/2.2df6a7e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02995889.js",
+    "static/js/2.2df6a7e1.chunk.js",
+    "static/css/main.69793001.chunk.css",
+    "static/js/main.47f371fb.chunk.js"
+  ]
+}
